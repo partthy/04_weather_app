@@ -1,4 +1,4 @@
-const APIKEY = "207c7f6fcd5639c8df8a2d845f56cea6";
+const APIKEY = "";
 
 const containerWeather = document.querySelector(".weather");
 const containerError = document.querySelector(".error");
